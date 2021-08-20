@@ -1,17 +1,13 @@
 # Matterbridge Junta
 Spis pokoi sieci Matrix zmostkowanych z innymi sieciami za pomocą Matterbridge hostowanego przez Juntę
 
-Sieci, które będą lub są zmostkowane:
-* Matrix
-* IRC pirc.pl
-* IRC libera.chat
-* Discord, serwer Junty
-* XMPP
-* Telegram
-
 Pokoje, które są lub będą zmostkowane:
 
-https://matrix.to/#/#ogolnotematyczny:matrix.org
+| Nazwa | Matrix | Telegram | IRC (libra.chat i pirc.pl) | XMPP | Discord |
+| --- | --- | --- | --- | --- | --- |
+| Ogólnotematyczny | [link](https://matrix.to/#/#ogolnotematyczny:matrix.org) | [link](https://t.me/ogolnotematyczny) | #ogolnotematyczny | ogolnotematyczny@chat.disroot.org | [link](https://discord.gg/NxBDHny) |
+
+https://matrix.to/#/#cybernetyka:matrix.org
 
 https://matrix.to/#/#nauka-technika:matrix.org
 
