@@ -7,6 +7,7 @@ Pokoje, które są zmostkowane:
 | --- | --- | --- | --- | --- | --- |
 | Ogólnotematyczny | [link](https://matrix.to/#/#ogolnotematyczny:matrix.org) | [link](https://t.me/ogolnotematyczny) | #ogolnotematyczny | ogolnotematyczny | [link](https://discord.gg/NxBDHny) |
 | Cybernetyka | [link](https://matrix.to/#/#cybernetyka:matrix.org) | [link](https://t.me/cybernetyka) | #cybernetyka | cybernetyka | [link](https://discord.gg/mRbCHKw4kz) |
+| Polityka | [link](https://matrix.to/#/#polityka:matrix.org) | [link](https://t.me/polityka_junta) | #polityka | polityka | [link](https://discord.gg/NxBDHny) |
 
 Do zmostkowania:
 
