@@ -29,6 +29,4 @@ https://matrix.to/#/#KinoTeatr:matrix.org
 
 https://matrix.to/#/#kryptologia:matrix.org
 
-https://matrix.to/#/#polityka:matrix.org
-
 https://matrix.to/#/#heavymetal:midov.pl
