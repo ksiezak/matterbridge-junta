@@ -32,3 +32,5 @@ https://matrix.to/#/#ksiazki:matrix.org
 https://matrix.to/#/#KinoTeatr:matrix.org
 
 https://matrix.to/#/#kryptologia:matrix.org
+
+https://matrix.to/#/#polityka:matrix.org
