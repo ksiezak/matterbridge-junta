@@ -14,8 +14,6 @@ https://matrix.to/#/#nauka-technika:matrix.org
 
 https://matrix.to/#/#matrix-polska:matrix.org
 
-https://matrix.to/#/#cybernetyka:matrix.org
-
 https://matrix.to/#/#linux-pl:matrix.org
 
 https://matrix.to/#/#kryptowaluty:matrix.org
