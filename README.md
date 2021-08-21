@@ -11,10 +11,9 @@ Pokoje, które są zmostkowane:
 | Matrix Polska | [link](https://matrix.to/#/#matrix-polska:matrix.org) | [link](https://t.me/matrix_polska) | #polska-matrix | matrix-polska | [link](https://discord.gg/NxBDHny) |
 | Linux | [link](https://matrix.to/#/#linux-pl:matrix.org) | [link](https://t.me/linux_pl) | #linux (pirc.pl) #polska-linux (libera.chat) | linux-pl | [link](https://discord.gg/NxBDHny) |
 | Nauka & Technika | [link](https://matrix.to/#/#nauka-technika:matrix.org) | [link](https://t.me/nauka_technika_junta) | #nauka-technika | nauka-technika | [link](https://discord.gg/NxBDHny) |
+| Kryptowaluty | [link](https://matrix.to/#/#kryptowaluty:matrix.org) | [link](https://t.me/kryptowaluty_junta) | #kryptowaluty | kryptowaluty | [link](https://discord.gg/NxBDHny) |
 
 Do zmostkowania:
-
-https://matrix.to/#/#kryptowaluty:matrix.org
 
 https://matrix.to/#/#lodz:matrix.org
 
