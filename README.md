@@ -13,10 +13,9 @@ Pokoje, które są zmostkowane:
 | Nauka & Technika | [link](https://matrix.to/#/#nauka-technika:matrix.org) | [link](https://t.me/nauka_technika_junta) | #nauka-technika | nauka-technika | [link](https://discord.gg/NxBDHny) |
 | Kryptowaluty | [link](https://matrix.to/#/#kryptowaluty:matrix.org) | [link](https://t.me/kryptowaluty_junta) | #kryptowaluty | kryptowaluty | [link](https://discord.gg/NxBDHny) |
 | Łódź | [link](https://matrix.to/#/#lodz:matrix.org) | [link](https://t.me/lodz_junta) | #lodz | łódź | [link](https://discord.gg/NxBDHny) |
+| Kontaktowy | [link](https://matrix.to/#/#kontaktowy:matrix.org) | [link](https://t.me/kontaktowy) | #kontaktowy | kontaktowy | [link](https://discord.gg/NxBDHny) |
 
 Do zmostkowania:
-
-https://matrix.to/#/#kontaktowy:midov.pl
 
 https://matrix.to/#/#ksiazki:matrix.org
 
