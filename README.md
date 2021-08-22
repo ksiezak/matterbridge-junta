@@ -16,9 +16,8 @@ Pokoje, które są zmostkowane:
 | Kontaktowy | [link](https://matrix.to/#/#kontaktowy:matrix.org) | #kontaktowy | #kontaktowy | kontaktowy |
 | Książki | [link](https://matrix.to/#/#ksiazki:matrix.org) | #ksiazki | #ksiazki | - |
 | KinoTeatr | [link](https://matrix.to/#/#KinoTeatr:matrix.org) | #kinoteatr | #kinoteatr | - |
+| Kryptologia | [link](https://matrix.to/#/#kryptologia:matrix.org) | #kryptologia | #kryptologia | - |
 
 Do zmostkowania:
-
-https://matrix.to/#/#kryptologia:matrix.org
 
 https://matrix.to/#/#heavymetal:midov.pl
