@@ -15,10 +15,9 @@ Pokoje, które są zmostkowane:
 | Łódź | [link](https://matrix.to/#/#lodz:matrix.org) | #lodz | #lodz | łódź |
 | Kontaktowy | [link](https://matrix.to/#/#kontaktowy:matrix.org) | #kontaktowy | #kontaktowy | kontaktowy |
 | Książki | [link](https://matrix.to/#/#ksiazki:matrix.org) | #ksiazki | #ksiazki | - |
+| KinoTeatr | [link](https://matrix.to/#/#KinoTeatr:matrix.org) | #kinoteatr | #kinoteatr | - |
 
 Do zmostkowania:
-
-https://matrix.to/#/#KinoTeatr:matrix.org
 
 https://matrix.to/#/#kryptologia:matrix.org
 
