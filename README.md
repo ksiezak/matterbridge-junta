@@ -3,17 +3,17 @@ Spis pokoi sieci Matrix zmostkowanych z innymi sieciami za pomocą Matterbridge 
 
 Pokoje, które są zmostkowane:
 
-| Nazwa | Matrix | Telegram | IRC (libera.chat i pirc.pl) | XMPP (chat.disroot.org) | Discord |
-| --- | --- | --- | --- | --- | --- |
-| Ogólnotematyczny | [link](https://matrix.to/#/#ogolnotematyczny:matrix.org) | [link](https://t.me/ogolnotematyczny) | #ogolnotematyczny | ogolnotematyczny | [link](https://discord.gg/NxBDHny) |
-| Cybernetyka | [link](https://matrix.to/#/#cybernetyka:matrix.org) | [link](https://t.me/cybernetyka) | #cybernetyka | cybernetyka | [link](https://discord.gg/mRbCHKw4kz) |
-| Polityka | [link](https://matrix.to/#/#polityka:matrix.org) | [link](https://t.me/polityka_junta) | #polityka | polityka | [link](https://discord.gg/NxBDHny) |
-| Matrix Polska | [link](https://matrix.to/#/#matrix-polska:matrix.org) | [link](https://t.me/matrix_polska) | #polska-matrix | matrix-polska | [link](https://discord.gg/NxBDHny) |
-| Linux | [link](https://matrix.to/#/#linux-pl:matrix.org) | [link](https://t.me/linux_pl) | #linux (pirc.pl) #polska-linux (libera.chat) | linux-pl | [link](https://discord.gg/NxBDHny) |
-| Nauka & Technika | [link](https://matrix.to/#/#nauka-technika:matrix.org) | [link](https://t.me/nauka_technika_junta) | #nauka-technika | nauka-technika | [link](https://discord.gg/NxBDHny) |
-| Kryptowaluty | [link](https://matrix.to/#/#kryptowaluty:matrix.org) | [link](https://t.me/kryptowaluty_junta) | #kryptowaluty | kryptowaluty | [link](https://discord.gg/NxBDHny) |
-| Łódź | [link](https://matrix.to/#/#lodz:matrix.org) | [link](https://t.me/lodz_junta) | #lodz | łódź | [link](https://discord.gg/NxBDHny) |
-| Kontaktowy | [link](https://matrix.to/#/#kontaktowy:matrix.org) | [link](https://t.me/kontaktowy) | #kontaktowy | kontaktowy | [link](https://discord.gg/NxBDHny) |
+| Nazwa | Matrix | IRC (pirc.pl) | IRC (libera.chat) | XMPP (chat.disroot.org) |
+| --- | --- | --- | --- | --- |
+| Ogólnotematyczny | [link](https://matrix.to/#/#ogolnotematyczny:matrix.org) | #ogolnotematyczny | #ogolnotematyczny |ogolnotematyczny |
+| Cybernetyka | [link](https://matrix.to/#/#cybernetyka:matrix.org) | #cybernetyka | #cybernetyka | cybernetyka |
+| Polityka | [link](https://matrix.to/#/#polityka:matrix.org) | #polityka | #polityka | polityka |
+| Matrix Polska | [link](https://matrix.to/#/#matrix-polska:matrix.org) | #polska-matrix | #polska-matrix | matrix-polska |
+| Linux | [link](https://matrix.to/#/#linux-pl:matrix.org) | #linux | #polska-linux | linux-pl |
+| Nauka & Technika | [link](https://matrix.to/#/#nauka-technika:matrix.org) | #nauka-technika | #nauka-technika | nauka-technika |
+| Kryptowaluty | [link](https://matrix.to/#/#kryptowaluty:matrix.org) | #kryptowaluty | #kryptowaluty | kryptowaluty |
+| Łódź | [link](https://matrix.to/#/#lodz:matrix.org) | #lodz | #lodz | łódź |
+| Kontaktowy | [link](https://matrix.to/#/#kontaktowy:matrix.org) | #kontaktowy | #kontaktowy | kontaktowy |
 
 Do zmostkowania:
 
