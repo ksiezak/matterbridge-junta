@@ -14,10 +14,9 @@ Pokoje, które są zmostkowane:
 | Kryptowaluty | [link](https://matrix.to/#/#kryptowaluty:matrix.org) | #kryptowaluty | #kryptowaluty | kryptowaluty |
 | Łódź | [link](https://matrix.to/#/#lodz:matrix.org) | #lodz | #lodz | łódź |
 | Kontaktowy | [link](https://matrix.to/#/#kontaktowy:matrix.org) | #kontaktowy | #kontaktowy | kontaktowy |
+| Książki | [link](https://matrix.to/#/#ksiazki:matrix.org) | #ksiazki | #ksiazki | - |
 
 Do zmostkowania:
-
-https://matrix.to/#/#ksiazki:matrix.org
 
 https://matrix.to/#/#KinoTeatr:matrix.org
 
