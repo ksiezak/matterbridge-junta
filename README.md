@@ -17,7 +17,4 @@ Pokoje, które są zmostkowane:
 | Książki | [link](https://matrix.to/#/#ksiazki:matrix.org) | #ksiazki | #ksiazki | - |
 | KinoTeatr | [link](https://matrix.to/#/#KinoTeatr:matrix.org) | #kinoteatr | #kinoteatr | - |
 | Kryptologia | [link](https://matrix.to/#/#kryptologia:matrix.org) | #kryptologia | #kryptologia | - |
-
-Do zmostkowania:
-
-https://matrix.to/#/#heavymetal:midov.pl
+| HeavyMetal | [link](https://matrix.to/#/#heavymetal_poland:matrix.org) | #heavymetal | #heavymetal-pl | - |
